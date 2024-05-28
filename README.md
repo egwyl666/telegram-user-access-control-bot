@@ -6,7 +6,7 @@ This Python bot is designed to manage user access on messaging platforms, specif
 
 - **User Management**: Allows the bot to add users to either a whitelist or a blacklist to control access to various bot functions.
 - **Dynamic User Status Update**: Users can be dynamically added to or removed from lists during runtime.
-- **Audio Messaging**: Supports sending audio messages to users.
+- **Messaging**: Supports sending audio or any messages to users.
 - **Interactive Commands**: Users can interact with the bot using commands like `/start`, `/clear`, `/addtowhitelist`, and `/addtoblacklist`.
 
 ## Installation

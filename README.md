@@ -67,4 +67,4 @@ Contributions to the Telegram User Access Control Bot are welcome! Here are some
 + Document code or write tutorials for the project.
 
 # License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://github.com/egwyl666/telebot_administrator/blob/main/LICENSE) - see the LICENSE file for details.
